@@ -23,6 +23,7 @@ To view the website, simply open the index.html file in a web browser. From ther
 -HTML
 -CSS
 -JavaScript
+-SCSS
 
 
 
